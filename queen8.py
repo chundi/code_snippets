@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 #coding=utf-8
 
 # 为保证两个整数相除结果为浮点数。
